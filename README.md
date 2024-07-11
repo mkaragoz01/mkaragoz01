@@ -4,4 +4,4 @@
 - 💞️ I want to collaborate on a project that will challenge and educate me
 - 📫 How to reach me 
 - >> Mail: karagozmuhammet45@gmail.com
-- >> Linkedin: https://www.linkedin.com/in/muhammet-mustafa-karagoz-649942221/
+- >> Linkedin: https://www.linkedin.com/in/muka3545/
