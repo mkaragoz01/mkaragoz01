@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammet Mustafa Karagöz
-- 👀 I’m interested in software development with java and python
-- 🌱 I’m currently learning backend with java
+- 👀 I’m interested in software development with Java and Python
+- 🌱 I’m currently learning backend with Java, Node JS
 - 💞️ I want to collaborate on a project that will challenge and educate me
 - 📫 How to reach me 
 - >> Mail: karagozmuhammet45@gmail.com
